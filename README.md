@@ -18,3 +18,15 @@ This Python project reads the contents of a file, modifies it, and writes the up
 ## 🧠 Example
 
 **Input File (`example.txt`)**
+
+
+---
+
+## 🖥️ How to Use
+
+1. Make sure Python 3 is installed.
+2. Place a sample file in the same directory.
+3. Run the script:
+
+```bash
+python file_read_write.py
